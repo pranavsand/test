@@ -1,0 +1,65 @@
+#brand{
+  padding-right: 10px;
+}
+.navbar{
+  background-color: #63b7af;
+  position:fixed;
+  width: 100%;
+  margin-top: auto;
+  height: 5em;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+.top-container{
+  margin-top: 0;
+  width: 100%;
+  background-color: #abf0e9;
+  position: relative;
+  top:4em;
+}
+p{
+  width: 80%;
+  text-align: center;
+  position: relative;
+  padding-left: 10em;
+}
+h1{
+  color: #ee8572;
+}
+.main-head{
+  margin-top: 0;
+  text-align: center;
+
+
+}
+.bottom-container{
+background-color: #ee8572;
+position: absolute;
+width: 100%;
+text-align: center;
+
+}
+.middle-container{
+  width: 100%;
+  margin-top: 40px;
+  padding-top: 40px;
+  text-align: center;
+  background-color: #f7f7f7;
+}
+.serv-head{
+  position: absolute;
+  text-align: right;
+  display: inline;
+  padding-left: 10px;
+
+}
+.content{
+  float: right;
+  display: inline;
+  padding-top: 4em;
+  padding-right: 2em;
+  display: grid;
+}
+.col-sm{
+  padding-bottom: 2%;
+}
